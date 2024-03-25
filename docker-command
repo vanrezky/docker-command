@@ -1,0 +1,4 @@
+#docker command
+
+update your image and force stop and recreate the 
+#docker-compose up -d --force-recreate --build
